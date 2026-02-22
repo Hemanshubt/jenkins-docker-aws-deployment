@@ -161,4 +161,4 @@ Access the app: `http://<Docker-Host-IP>:8087/webapp/`
 This project demonstrates a robust CI/CD workflow, bridging the gap between developers and production using modern DevOps tools on AWS cloud infrastructure.
 
 ---
-*Maintained by [Heman](https://github.com/Hemanshubt)*
+*Maintained by [Hemanshu](https://github.com/Hemanshubt)*
